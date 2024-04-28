@@ -11,7 +11,7 @@ public class Admin {
 
     private static String url = "jdbc:mysql://localhost:3306/employeeData";
     private static String user = "root";
-    private static String password = "Kickgravel77!";
+    private static String password = "Enter Password Here";
     private HashMap<Integer, Employee> employees;
     // jobs = {jobID : job}
     private HashMap<Integer, Job> jobs;
